@@ -1,6 +1,6 @@
 Changjietong Information Technology Co., Ltd. has SQL injection, which attackers can exploit to obtain information.
 
-official：[https://www.kehua.com.cn/](https://www.chanjet.com/)
+official：https://www.chanjet.com/
 
 version:1.0
 
@@ -17,4 +17,5 @@ Connection: close
 
 Ip：http://49.4.122.252:8090
 SQL map confirms a vulnerability, which is quite special. It cannot run SQL map with cookies. Use my POC-R and do not use SQL map. Custom cookies should be marked with an * injection point
-![Uploading image.png…]()
+
+<img width="1166" height="432" alt="image" src="https://github.com/user-attachments/assets/855467ca-46d5-4ecb-8179-c94c4120c08a" />
